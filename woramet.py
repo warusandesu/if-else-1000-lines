@@ -1,7 +1,7 @@
 name = (input("What is your name? \n"))
 while name == "":
        name = (input("Enter your name:"))
-if name == "พี" or name == "P" or name == "p" or name == "Pee" or name == "pee" or name == "อัครชัย" or name == "Akarachai" or name == "akarachat":
+if name == "พี" or name == "P" or name == "p" or name == "Pee" or name == "pee" or name == "อัครชัย" or name == "Akarachai" or name == "akarachai":
                 print("ควายไอ้เหี้ยโง่ไอ้กากไอ้สถุนไอ้ควยควยควยควยควยควยควยควยควยควย")
                 exit()
 else :
@@ -98,6 +98,7 @@ elif age >= 65:
                 print("Enjoy your retirement, " + name + "!")
         else :
                 print("Wow you are still working hard!")
+
 
 
 
